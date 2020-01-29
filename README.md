@@ -1,0 +1,2 @@
+- Download the .NET Core 3.1.101 SDK at https://dotnet.microsoft.com/download/dotnet-core/3.1
+- Open the project up in Visual Studio 2019 and run the application
